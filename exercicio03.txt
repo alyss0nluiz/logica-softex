@@ -1,0 +1,13 @@
+Resolução da terceira atividade:
+
+nome (caractere)
+cpf (inteiro)
+rg (inteiro)
+altura (real)
+endereco (caractere)
+
+nome <- josé almeida da silva//
+cpf <- 12345678900//
+rg <- 9517530//
+altura <- 1,78//
+endereco <- rua A, 380 - Centro - Recife/PE//
