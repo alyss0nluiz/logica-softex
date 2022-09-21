@@ -1,0 +1,3 @@
+Resolução da segunda atividade:
+
+Na primeira organização o professor montou uma sequência para dividir os alunos na sala. ao serem adicionados mais alunos a sala de aula, ele modificou essa sequência mantendo 4 alunos de uma disciplina e 2 de outra por fila. Quando um dos alunos trocou de lugar, o professor identificou a troca pois a fileira passou a ter 3 alunos de cada disciplina.
