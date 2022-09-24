@@ -27,6 +27,9 @@ programa
 		leia(peso)
 		escreva("Digite a sua renda bruta:")
 		leia(renda)
+
+		escreva("Nome completo: ", nome, "\n", "Endereço: ", endereco, "\n", "Cidade: ", cidade, "\n", "CPF: ", cpf, "\n", "RG: ", rg, 
+		"\n", "Idade: ", idade, "\n", "Nome do Pai: ", nomePai, "\n", "Nome da Mãe: ", nomeMae, "\n", "Peso: ", peso, "\n", "Renda Bruta: ", renda)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -34,7 +37,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 96; 
+ * @POSICAO-CURSOR = 914; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
