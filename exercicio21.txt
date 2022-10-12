@@ -1,0 +1,96 @@
+class monitor:
+
+	atributos:
+		marca: caractere;
+		cor: caractere;
+		tamanho: real;
+		resolucao: caractere;
+		conectado: lógico;
+
+	métodos:
+		exibir imagem;
+		conectar;
+		desconectar;
+
+	instaciamento do objeto:
+		monitor = monitor()
+			monitor.marca = Samsung;
+			monitor.cor = Preto;
+			monitor.tamanho = 45,3cm X 24,5cm;
+			monitor.resolucao = Full HD;
+			monitor.conectado = Verdadeiro;
+
+------------------------------------------------------------------------------------------------
+
+class carro:
+
+	atributos:
+		marca: caractere;
+		modelo: caractere;
+		ano: inteiro;
+		automatico: lógico;
+		combustivel: caractere;
+
+	métodos:
+		dirigir;
+		acelerar;
+		freiar;
+
+	instaciamento do objeto:
+		carro = carro()
+			carro.marca = Chevrolet;
+			carro.modelo = S10;
+			carro.ano = 2010;
+			carro.automatico = Falso;
+			carro.combustivel = Diesel;
+
+------------------------------------------------------------------------------------------------
+
+class transacaoBancaria:
+
+	atributos:
+		banco: caractere;
+		agencia: inteiro;
+		conta: real;
+		transacao: caractere;
+		valor: real;
+
+	métodos:
+		pagar;
+		transferir;
+		receber;
+		investir;
+		emprestimo;
+		saque;
+
+	instaciamento do objeto:
+		transacaoBancaria tb = transacaoBancaria()
+			tb.banco = Banco do Brasil;
+			tb.agencia = 0922;
+			tb.conta = 4455888-9;
+			tb.transacao = saque;
+			tb.valor = 599,99;
+
+------------------------------------------------------------------------------------------------
+
+class estudar:
+
+	atributos:
+		tempo: real;
+		local: caractere;
+		disciplina: caractere;
+		assunto: caractere;
+		
+	métodos:
+		assistir;
+		ler;
+		escrever;
+		exercitar;
+
+
+	instanciamento do objeto:
+		estudar = estudar()
+			estudar.tempo = 2.50hrs;
+			estudar.local = Faculdade;
+			estudar.disciplina = Física;
+			estudar.assunto = Mecânica dos fluidos;
