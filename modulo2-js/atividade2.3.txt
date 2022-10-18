@@ -1,0 +1,11 @@
+Cotidiano:
+
+1 - Horário
+2 - Distância
+3 - Velocidade
+
+Internet:
+
+1 - Saldo da conta (Internet Banking)
+2 - Vídeos
+3 - Calculadora
