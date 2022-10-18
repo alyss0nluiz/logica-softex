@@ -1,7 +1,0 @@
-Youtube:
-
-Todos os vídeos da Home do Youtube são elementos JS, ao clicar no vídeo é chamado um evento que gera a ação de abrir o vídeo selecionado.
-
-Spotify:
-
-Sua interface é feita completamente em JS, ao desabilitar o mesmo para de fucionar.
