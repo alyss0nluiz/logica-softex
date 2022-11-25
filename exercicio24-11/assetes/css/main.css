@@ -1,0 +1,31 @@
+*{
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #127369;
+}
+
+.container{
+    padding-top: 3%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+p{
+    font-size: 1.5rem;
+    color: #8AA6A3;
+}
+
+.botoes{
+    margin: 4%;
+}
+
+.botoes a{
+    text-decoration: none;
+    padding:  2%;
+    color: #8AA6A3;
+    background-color: #10403B;
+}
