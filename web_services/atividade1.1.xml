@@ -1,0 +1,33 @@
+POST /Cliente HTTP/1.1
+Host: www.minhaempresa.com
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: 200
+
+<?xml version="1.0"?>
+<soap:Envelope
+xmlns:soap="http://www.w3.org/2003/05/soap-envelope/"
+soap:encodingStyle="http://www.w3.org/2003/05/soap-encoding">
+<soap:Body xmlns:m="http://www.minhaempresa.com/consultaCliente">
+  <m:consultaCliente>
+    <m:cpf>99988877766</m:cpf>
+  </m:consultaCliente>
+</soap:Body>
+</soap:Envelope>
+
+ 
+HTTP/1.1 200 OK
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: 200
+
+<?xml version="1.0"?>
+<soap:Envelope
+xmlns:soap="http://www.w3.org/2003/05/soap-envelope/"
+soap:encodingStyle="http://www.w3.org/2003/05/soap-encoding">
+<soap:Body xmlns:m="http://www.minhaempresa.com/consultaCliente">
+  <m:consultaClienteResponse>
+    <m:nome>Pablo Pinto</m:nome>
+    <m:endereco>Rua Jacinto Escobar, 169</m:endereco>
+    <m:telefone>(81) 99999-9999</m:telefone>
+  </m:consultaClienteResponse>
+</soap:Body>
+</soap:Envelope>
