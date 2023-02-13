@@ -1,0 +1,1 @@
+Recomendaria que fosse feito um protótipo da interface e do sistema que iriam compor o aplicativo. Ao fazer um protótipo simples, seria possível ter uma visão de como seria a experiência do usuário, e quais ajustes poderiam ser feitos para corrigir os possíveis erros e falhas de segurança que poderiam surgir na aplicação.
