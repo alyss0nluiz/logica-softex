@@ -1,0 +1,11 @@
+A solução deste desafio pode ser abordada usando as seguintes estratégias baseadas no Design Thinking:
+
+1º Entender a necessidade: Para garantir que o aplicativo atenda às expectativas reais dos envolvidos, é importante entender profundamente as suas necessidades e desejos. A equipe da EduDesign pode entrevistar os responsáveis pelos estudantes e os professores da escola Atena para coletar informações sobre o que eles precisam e desejam em um aplicativo de gerenciamento de notas.
+
+2º Validação de ideias: Uma vez que a equipe tenha uma compreensão clara das necessidades dos envolvidos, pode validar o seu protótipo atual com uma pequena amostra de usuários para obter feedback e fazer ajustes. Isso ajudará a garantir que o aplicativo esteja alinhado com as expectativas dos usuários antes do lançamento final.
+
+3º Teste e aprimoramento: Depois de validar o protótipo, a equipe da EduDesign pode continuar testando e aprimorando o aplicativo com base no feedback dos usuários. Isso inclui corrigir problemas técnicos e melhorar a usabilidade do aplicativo.
+
+4º Implementação e monitoramento: Quando o aplicativo estiver pronto para ser lançado, é importante implementá-lo de maneira cuidadosa e monitorar sua performance para garantir que ele atenda às expectativas dos usuários. A equipe pode coletar feedback regular dos usuários e continuar aprimorando o aplicativo ao longo do tempo.
+
+Estas são apenas algumas das estratégias que a equipe da EduDesign pode usar para garantir que o aplicativo de gerenciamento de notas atenda às expectativas reais dos envolvidos. A implementação de uma abordagem baseada em Design Thinking ajudará a garantir que a solução seja eficaz, inovadora e alinhada com as necessidades dos usuários.
