@@ -1,0 +1,44 @@
+Possíveis áreas de atuação:
+UX Researcher;
+Information Architect;
+UI/UX Developer;
+Usability Analyst;
+UX Writer;
+Product Designer.
+
+UX Researcher:
+Conduzir entrevistas, pesquisas e testes;
+Analisar os resultados quantitativos e qualitativos das pesquisas;
+Desenvolver personas, Jornadas do Usuário e protótipos;
+Comunicar os resultados das pesquisas para o negócio.
+
+Information Architect:
+Analisar informações dos resultados de pesquisas e testes com usuários;
+Criar mapas que ilustram a hierarquia do conteúdo nas interfaces;
+Elaborar protótipos e criar templates;
+Desenvolver modelos e fluxogramas.
+
+UI/UX Developer:
+Trabalhar junto aos designers nas ideias de design e identificação de problemas potenciais, focando mais em possibilidades e limitações tecnológicas;
+Desenvolver interfaces gráficas (código);
+Desenvolver mockups e protótipos;
+Identificar dificuldades técnicas com a experiência do usuário.
+
+Usability Analyst:
+Trabalhar junto com a equipe de pesquisa, ajudando em testes de usabilidade;
+Aplicar métodos de inspeção de usabilidade, como orientações heurísticas, cognitivas e baseadas em personas;
+Traduzir observações e insights em planos de ação junto com o time de design;
+Desenvolver protótipos e wireframes;
+Identificar gaps de usabilidade e apresentar soluções.
+
+UX Writer:
+Trabalhar em equipe com as áreas de pesquisa e de produto para entender as personas, suas necessidades e suas dores;
+Copywriting – escrever textos amigáveis em todos os pontos de interação do usuário;
+Entender como a escrita e a interação trabalham juntas para construir uma narrativa coerente na jornada do usuário.
+
+Product Designer:
+Disciplinas de UX;
+Negócios;
+Interface;
+Metodologias de gestão de projeto;
+Gestão de pessoas.
