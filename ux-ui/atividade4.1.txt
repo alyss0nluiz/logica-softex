@@ -1,0 +1,1 @@
+Projeto C: Como se trata de melhorar a visualização dos elementos estéticos, o recomendado seria usar o artefato do mockups, pois com ele podemos já visualizar a paleta de cores e os layouts. Também permite analisar a preferência da estrutura do conteúdo.
