@@ -1,0 +1,33 @@
+Minimum Viable Product (MVP) e protótipo são termos comumente usados no processo de design e desenvolvimento de novos produtos, mas apresentam diferenças significativas.
+
+Um MVP é uma versão mínima e funcional de um produto, que apresenta apenas as funcionalidades essenciais para atender às necessidades dos usuários. O MVP é projetado para testar a hipótese de negócio e coletar feedback dos usuários o mais rapidamente possível, com o objetivo de aprimorar o produto e torná-lo mais atrativo para o mercado.
+
+Por outro lado, um protótipo é uma versão inicial de um produto, que pode ser física ou digital. O protótipo é projetado para explorar as ideias e conceitos, e é usado como uma ferramenta para comunicação interna e externa. O protótipo pode ser usado para coletar feedback dos usuários, mas não é necessariamente funcional e pode não apresentar todas as funcionalidades desejadas.
+
+As vantagens do MVP incluem:
+
+Permite testar o produto no mercado rapidamente;
+*Poupa recursos, pois apenas as funcionalidades básicas são desenvolvidas;
+*Oferece a oportunidade de coletar feedback dos clientes e ajustar o produto de acordo com as suas necessidades;
+*Reduz o risco financeiro, já que se não houver demanda pelo produto, a perda será menor.
+
+As desvantagens do MVP incluem:
+
+*Pode não ser tão atraente para os clientes, já que não tem todas as funcionalidades que eles esperam;
+*Pode afetar a imagem da empresa, já que pode ser visto como um produto incompleto;
+*Pode ser difícil manter o equilíbrio entre as funcionalidades básicas e as expectativas dos clientes.
+
+As vantagens do protótipo incluem:
+
+*Permite testar a funcionalidade e a usabilidade do produto antes de sua fabricação em larga escala;
+*Possibilita a realização de testes mais detalhados, como testes de performance e testes de usuário;
+*Facilita a comunicação com os clientes, já que eles podem visualizar e experimentar o produto.
+
+As desvantagens do protótipo incluem:
+
+*Pode ser demorado e caro de desenvolver, especialmente se o produto for complexo;
+*Pode não refletir a aparência final do produto, já que ainda está em fase de desenvolvimento;
+*Pode ser difícil realizar alterações no produto depois que o protótipo foi finalizado.
+
+Em resumo, o MVP e o protótipo são abordagens diferentes que podem ser usadas em diferentes fases do processo de desenvolvimento de novos produtos. A escolha entre um ou outro dependerá das necessidades e objetivos da empresa e do produto.
+
